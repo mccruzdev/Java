@@ -15,5 +15,9 @@ public class Arrays {
         numeros[2] = 20;
         System.out.println(numeros[0]);
         System.out.println(numeros[2]);
+
+        System.out.println(nombres[2]);
+        nombres[2] =  "Juanete";
+        System.out.println(nombres[2]);
     }
 }
