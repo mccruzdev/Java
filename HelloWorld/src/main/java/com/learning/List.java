@@ -5,6 +5,8 @@ import java.util.ArrayList;
 public class List {
     public static void main(String[] args) {
 
+        //se guardan de manera ordenada
+
         //declaración y definición
 
         //definimos un array list con el tipo String y le damos el nombre de "nombres" y creamos el nuevo arraylist.
@@ -40,7 +42,12 @@ public class List {
 
         //nombresVar.clear();
 
-
+        //podemos agregar varios y todos se agregan
+        System.out.println(nombresVar);
+        nombresVar.add("mcruz");
+        nombresVar.add("mcruz");
+        nombresVar.add("mcruz");
+        System.out.println(nombresVar);
 
 
 
