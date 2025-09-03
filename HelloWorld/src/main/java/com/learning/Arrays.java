@@ -19,5 +19,7 @@ public class Arrays {
         System.out.println(nombres[2]);
         nombres[2] =  "Juanete";
         System.out.println(nombres[2]);
+        nombres[1] =  "Miroloncho";
+        System.out.println(nombres[1]);
     }
 }
